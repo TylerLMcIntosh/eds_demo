@@ -1,10 +1,10 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
+site_name: 'eds demo'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Ty Tuff
 site_url: https://tylerlmcintosh.github.io/eds_demo
 
 # Repository
-repo_name: Postdoc_OASIS
+repo_name: eds_demo
 repo_url: https://github.com/TylerLMcIntosh/eds_demo
 edit_uri: edit/main/docs/
 # Copyright
